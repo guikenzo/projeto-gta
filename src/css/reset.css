@@ -1,0 +1,15 @@
+* {
+    margin: 0;/* Reseta a pagina a todo*/
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none; /* Tira a decoração dos itens da lista*/
+}
+
+a {
+    text-decoration: none;
+    color: inherit; /* Tira a decoração dos links da página*/
+}
+/* ALT + SHIFT + F - FAZ A IDENTAÇÃO AUTOMATICAMENTE 
